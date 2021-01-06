@@ -2,8 +2,8 @@ import random
 import concurrent.futures as futures
 
 
-PROCESSES = 8
-TOTAL = 10000000
+PROCESSES = 3
+TOTAL = 100000
 
 
 def main():
